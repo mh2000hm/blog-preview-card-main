@@ -15,28 +15,28 @@
 
 .text-preset-1 {
   font-weight: 800;
-  font-size: 24px;
+  font-size: 1.5rem;
   line-height: 150%;
   letter-spacing: 0%;
 }
 
 .text-preset-2 {
   font-weight: 500;
-  font-size: 16px;
+  font-size: 1rem;
   line-height: 150%;
   letter-spacing: 0%;
 }
 
 .text-preset-3 {
   font-weight: 500;
-  font-size: 14px;
+  font-size: 0.875rem;
   line-height: 150%;
   letter-spacing: 0%;
 }
 
 .text-preset-3-bold {
   font-weight: 800;
-  font-size: 14px;
+  font-size: 0.875rem;
   line-height: 150%;
   letter-spacing: 0%;
 }
